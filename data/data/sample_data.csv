@@ -1,0 +1,21 @@
+customerID,tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,TechSupport,NumSupportTickets,Churn
+C001,12,65.5,786.0,Month-to-month,Electronic check,No,3,Yes
+C002,34,89.0,3026.0,One year,Mailed check,Yes,1,No
+C003,2,45.0,90.0,Month-to-month,Electronic check,No,5,Yes
+C004,56,120.0,6720.0,Two year,Bank transfer,Yes,0,No
+C005,8,75.0,600.0,Month-to-month,Credit card,No,4,Yes
+C006,45,95.0,4275.0,One year,Bank transfer,Yes,1,No
+C007,3,55.0,165.0,Month-to-month,Electronic check,No,6,Yes
+C008,67,130.0,8710.0,Two year,Mailed check,Yes,0,No
+C009,15,70.0,1050.0,Month-to-month,Electronic check,No,2,Yes
+C010,28,88.0,2464.0,One year,Credit card,Yes,1,No
+C011,1,40.0,40.0,Month-to-month,Electronic check,No,7,Yes
+C012,72,145.0,10440.0,Two year,Bank transfer,Yes,0,No
+C013,6,60.0,360.0,Month-to-month,Electronic check,No,4,Yes
+C014,48,110.0,5280.0,One year,Credit card,Yes,0,No
+C015,19,78.0,1482.0,Month-to-month,Mailed check,No,3,Yes
+C016,55,125.0,6875.0,Two year,Bank transfer,Yes,1,No
+C017,4,50.0,200.0,Month-to-month,Electronic check,No,5,Yes
+C018,38,92.0,3496.0,One year,Credit card,Yes,0,No
+C019,9,68.0,612.0,Month-to-month,Electronic check,No,3,Yes
+C020,61,135.0,8235.0,Two year,Bank transfer,Yes,0,No
